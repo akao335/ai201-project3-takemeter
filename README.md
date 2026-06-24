@@ -241,3 +241,6 @@ personal observation language regardless of their true label, and that
 recommendation posts in particular had no distinctive surface features the
 model could latch onto. These patterns were verified by re-reading the examples
 — the observation held up and is reflected in the failure analysis above.
+
+# Demo Link
+https://www.loom.com/share/937a3c0b8a884f5292965e6354643190
